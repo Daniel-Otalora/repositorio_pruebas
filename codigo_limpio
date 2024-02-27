@@ -1,0 +1,13 @@
+Codigo limpio
+
+1.Que es optimizacion de codigo?
+-Realizamos esta accion para darle mejor funcionalidad al programa, poder acortar el codigo estos cambios ayudan al igual para poder leerlo de mejor manera
+
+2.Que es refactorizacion de codigo?
+-Refactorizacion realiza una restauracion de codigo sin cambiar la funcionalidad esto es como lavar la ropa seguira siendo la misma ropa pero estara limpia, esto reorganiza el codigo y hace limpieza al codigo para que sea mas facil de enteneder
+
+3.Que es la Integracion Continua/Despliegue Continuo (CI/CD) o integracion continua?
+-La integracion continua es una practica de desarrollo de software en la que los desarrolladores integran codigo en un repositorio compartido varias veces al dia. todas las integraciones se verifican automaticamente mediante la ejecucion de pruebas automatizadas. Es como tener a alguien que mantiene el codigo en buen estado
+
+4.Que es DRY (No te repitas)?
+-DRY significa no te respitas. Es como decir no escribas lo mismo dos veces. Es una regla que nos ayuda a escribir codigo de forma mas ordenada y facil de entender
